@@ -1,0 +1,2 @@
+pillarsource:
+  - source: github
